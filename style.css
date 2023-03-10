@@ -1,0 +1,35 @@
+body {
+  font-family: 'Climate Crisis', cursive;
+  
+    background-image: linear-gradient(beige, aquamarine);
+  
+ 
+
+}
+
+.header_div {
+color:rgb(31, 235, 235);
+text-align: center;
+
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  
+}
+
+p {
+text-align: center;
+margin:30px;
+font-size:30px
+}
+	
+.main_div button{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.copy_right_footer {
+text-align: center;
+
+}
